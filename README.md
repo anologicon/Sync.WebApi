@@ -38,6 +38,6 @@ And start the application
 ```
 dotnet run
 ```
-And start the product API
 
+How to run the ProductsWebApi 
 [Products.WebApi.Spa](https://github.com/anologicon/Products.WebApi.Spa)
