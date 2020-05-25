@@ -13,7 +13,7 @@ In the project root
 
 Start the database
 ```
-docker-compose up
+docker-compose up -d
 ```
 
 ## Database
