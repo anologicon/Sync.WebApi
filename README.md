@@ -16,6 +16,24 @@ Start the database
 docker-compose up
 ```
 
+## Database
+
+With your favorite client:
+
+```mongo
+use Sync
+```
+
+```mongo
+Sync.createCollection("Product")
+```
+
+The connection string
+```
+mongodb://syncadmin:syncadmin@0.0.0.0:27017
+```
+
+
 And start the application
 ```
 dotnet run
